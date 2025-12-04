@@ -13,6 +13,8 @@ func New() Dict {
 
 // Add fügt einen Eintrag zum Wörterbuch hinzu.
 func (d *Dict) Add(e entry.Entry) {
+
+	e = 
 	// TODO
 }
 
